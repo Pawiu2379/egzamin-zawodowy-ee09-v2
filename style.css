@@ -1,0 +1,52 @@
+*{
+    font-family: Helvetica, sans-serif;
+}
+
+.header{
+    display: grid;
+    grid-template-columns: 50% 70% ;
+    background-color: rgb(130, 69, 85);
+
+}
+
+.baner{
+    background-color: rgb(130, 69, 85);
+    color: white;
+    height: 200px;
+    width: 30%;
+}
+
+.banerLewy{
+    text-align: center;
+}
+
+.banerPrawy{
+    display: grid;
+    grid-template-columns: 60% 60%;
+}
+.home {
+    padding: 0px;
+    margin: 0px;
+}
+
+.right{
+    background-color: rgb(130, 69, 85);
+    color: white;
+}
+
+.Prawy img{
+    height: 200px;
+}
+
+.down{
+    background-color: rgb(130, 69, 85);
+    display: grid;
+    grid-template-columns: 50% 50%;
+    height: 200px;
+
+}
+
+.mainfot{
+    background-color: rgb(240, 234, 226);
+    padding: 120px;
+}
