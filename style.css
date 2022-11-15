@@ -6,8 +6,8 @@
     display: grid;
     grid-template-columns: 50% 70% ;
     background-color: rgb(130, 69, 85);
-
 }
+
 
 .baner{
     background-color: rgb(130, 69, 85);
@@ -29,6 +29,10 @@
     margin: 0px;
 }
 
+.Lewy{
+    text-align: center;
+    color: rgb(240, 234, 226);
+}
 .right{
     background-color: rgb(130, 69, 85);
     color: white;
@@ -49,4 +53,20 @@
 .mainfot{
     background-color: rgb(240, 234, 226);
     padding: 120px;
+}
+
+table td{
+    border: 1px rgb(130, 69, 85) solid;
+    color: rgb( 130, 69, 85);
+    margin: 10px;
+    padding: 10px;
+}
+
+table{
+    border: 1px rgb(130, 69, 85) solid;
+    padding: 10px;
+}
+
+footer{
+    text-align: left;
 }
