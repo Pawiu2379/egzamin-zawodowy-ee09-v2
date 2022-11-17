@@ -1,5 +1,7 @@
 // var dane = document.getElementsByClassName('input')
 var dane1 = document.getElementById('dane1').value
+
+
 var dane2 = document.getElementById('dane2').value
 var wynik;
 
